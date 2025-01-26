@@ -5,16 +5,16 @@ name = "server-sg" # todo
 main = "_worker.js"
 compatibility_date = "2023-05-26"
 [[routes]]
-pattern = "sg1.bandarpremium.my.id"
+pattern = "sg1.bandarpremium.store"
 custom_domain = true
 [[routes]]
-pattern = "quiz.vidio.com.sg1.bandarpremium.my.id"
+pattern = "quiz.vidio.com.sg1.bandarpremium.store"
 custom_domain = true
 [[routes]]
-pattern = "img.email1.vidio.com.sg1.bandarpremium.my.id"
+pattern = "img.email1.vidio.com.sg1.bandarpremium.store"
 custom_domain = true
 [[routes]]
-pattern = "zaintest.vuclip.com.sg1.bandarpremium.my.id"
+pattern = "zaintest.vuclip.com.sg1.bandarpremium.store"
 custom_domain = true
 
 [vars]
@@ -24,4 +24,4 @@ custom_domain = true
 # NODE_ID = "1"
 # API_TOKEN = "example_dev_token"
 # API_HOST = "api.v2board.com"
-UUID = "35385c7e-df4e-464e-b930-fe86a9a03ade"
+UUID = "acf48375-317e-472d-9879-8a7f2c278467"
